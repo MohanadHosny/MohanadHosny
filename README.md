@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**MohanadHosny/MohanadHosny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My stats
+![](https://komarev.com/ghpvc/?username=MohanadHosny&color=green)
 
-Here are some ideas to get you started:
+<a href="https://github.com/MohanadHosny/MohanadHosny">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohanadHosny&layout=compact&theme=onedark"/>
+</a>
+<br/>
+<a href="https://github.com/MohanadHosny/MohanadHosny">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanadHosny&layout=compact&theme=onedark"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- **Programming languages I know: <br/>**
+  Python <br/>
+  Javascript & Typescript <br/>
+  C# <br/>
+  
+- **I’m currently learning: <br/>**
+  C# (Advanced C#) <br/>
+  React JS <br/>
+
+- **How to reach me: <br/>**
+  Discord: MohanadHosny#9152 <br/>
+  Telegram: MohanadHosny <br/>
