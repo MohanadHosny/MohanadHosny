@@ -17,6 +17,7 @@
   Python <br/>
   Javascript & Typescript <br/>
   C# <br/>
+  Java (Not very good) <br />
   
 - **I’m currently learning: <br/>**
   C# (Advanced C#) <br/>
