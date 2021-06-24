@@ -20,6 +20,7 @@
   - C# - 1 Year
 
 - **I’m currently learning: <br/>**
+  - C++
   - C# (Expert level)
   - React.Js
 
