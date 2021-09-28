@@ -1,21 +1,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MohanadHosny</h1>
-<h3 align="center">I'm a passionate Backend Developer from Egypt.</h3>
+<h3 align="center">I'm a passionate self-taught Developer from Egypt.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Nothing!**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Go lang.**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **Discord: MohanadHosny#9152**
 
-
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
+	<a href="https://www.golang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/typescript.png"/> </a>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-sharp-logo.png"/> </a>
 	<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -34,6 +34,11 @@
     <a href="https://github.com/MohanadHosny/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohanadHosny&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+</p>
+
+## Contacts
+<p align="center">
+    <a href="https://t.me/MohanadHosny"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 </p>
 
 ## 📊 My Github Stats
