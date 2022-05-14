@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **Discord: MohanadHosny#9152**
+- 📫 How to reach me **Discord: NotMohanadHosny#5810**
 
 ## 🚀 Languages and Tools:
 
